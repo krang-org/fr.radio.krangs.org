@@ -1,0 +1,16 @@
+#flat-black-player-container {
+    border-radius: 10px;
+    padding: 15px 15px;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
+    background-color: #192029;
+}
+
+input[type="range"]#global-large-song-slider {
+    width: 100%;
+    margin-top: -74px;
+    -webkit-appearance: none;
+    z-index: 9999;
+    background-color: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; }
