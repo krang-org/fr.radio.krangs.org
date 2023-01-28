@@ -198,7 +198,7 @@ Amplitude.init({
     },
     {
       "name": "Gaillard Eurl",
-      "url": "./commercials/fr-FR/recherche-de-march-/gaillard-eurl/1673509187821/commercial.mp3",
+      "url": "./commercials/fr-FR/recherche-de-march/gaillard-eurl/1673509187821/commercial.mp3",
       "artist": "Recherche De March ",
       "cover_art_url": "assets/img/krang/krang-radio-095.jpg"
     },
@@ -438,7 +438,7 @@ Amplitude.init({
     },
     {
       "name": "Collet Et Richard",
-      "url": "./commercials/fr-FR/services-de-sant-/collet-et-richard/1673510081660/commercial.mp3",
+      "url": "./commercials/fr-FR/services-de-sant/collet-et-richard/1673510081660/commercial.mp3",
       "artist": "Services De Sant ",
       "cover_art_url": "assets/img/krang/krang-radio-086.jpg"
     },
@@ -468,7 +468,7 @@ Amplitude.init({
     },
     {
       "name": "Francois Et Vasseur",
-      "url": "./commercials/fr-FR/comptabilit-/francois-et-vasseur/1673508240321/commercial.mp3",
+      "url": "./commercials/fr-FR/comptabilit/francois-et-vasseur/1673508240321/commercial.mp3",
       "artist": "Comptabilit ",
       "cover_art_url": "assets/img/krang/krang-radio-057.jpg"
     },
@@ -672,7 +672,7 @@ Amplitude.init({
     },
     {
       "name": "Roger Et Meyer",
-      "url": "./commercials/fr-FR/capital-risque-et-financement-priv-/roger-et-meyer/1673509353744/commercial.mp3",
+      "url": "./commercials/fr-FR/capital-risque-et-financement-priv/roger-et-meyer/1673509353744/commercial.mp3",
       "artist": "Capital Risque Et Financement Priv ",
       "cover_art_url": "assets/img/krang/krang-radio-078.jpg"
     },
@@ -864,7 +864,7 @@ Amplitude.init({
     },
     {
       "name": "Laine Scop",
-      "url": "./commercials/fr-FR/recherche-de-march-/laine-scop/1673509122666/commercial.mp3",
+      "url": "./commercials/fr-FR/recherche-de-march/laine-scop/1673509122666/commercial.mp3",
       "artist": "Recherche De March ",
       "cover_art_url": "assets/img/krang/krang-radio-021.jpg"
     },
@@ -948,7 +948,7 @@ Amplitude.init({
     },
     {
       "name": "Garcia Et Dumas",
-      "url": "./commercials/fr-FR/capital-risque-et-financement-priv-/garcia-et-dumas/1673508180389/commercial.mp3",
+      "url": "./commercials/fr-FR/capital-risque-et-financement-priv/garcia-et-dumas/1673508180389/commercial.mp3",
       "artist": "Capital Risque Et Financement Priv ",
       "cover_art_url": "assets/img/krang/krang-radio-016.jpg"
     },
@@ -1032,7 +1032,7 @@ Amplitude.init({
     },
     {
       "name": "Robert Et Vincent",
-      "url": "./commercials/fr-FR/services-de-sant-/robert-et-vincent/1673509152282/commercial.mp3",
+      "url": "./commercials/fr-FR/services-de-sant/robert-et-vincent/1673509152282/commercial.mp3",
       "artist": "Services De Sant ",
       "cover_art_url": "assets/img/krang/krang-radio-037.jpg"
     },
@@ -1095,6 +1095,36 @@ Amplitude.init({
       "url": "./commercials/fr-FR/services-publics/marie-et-pr-vost/1673509295100/commercial.mp3",
       "artist": "Services Publics",
       "cover_art_url": "assets/img/krang/krang-radio-011.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
     }
   ]
 });
